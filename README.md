@@ -1,4 +1,6 @@
 ## Hi there 👋
+Nice to meet you. Thank you for taking the time to read my README profile. 
+Intro: Polish born and raised in Ireland, I did my BS in actuarial science at UCD in Dublin, Ireland. Experience in the insurance and finance industry. Qualified actuary with a passion for mountaineering. Would love to explore collaborations with other GitHub community members on fun data science projects.
 
 - 🔭 I’m currently working on data science and machine learning projects for my portfolio. 
 - 🌱 I’m currently learning machine learning tools as a graduate student in Georgia Tech.
