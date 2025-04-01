@@ -1,6 +1,6 @@
 ## Hi there 👋
 Nice to meet you. Thank you for taking the time to read my README profile. 
-Intro: Polish born and raised in Ireland. Currently attaining a Masters in Analytics & Data Science at Georgia Tech. Would love to explore collaborations with other GitHub community members on fun data science projects. Experience in financial & insurance analytics. Qualified actuary with a passion for mountaineering. CFA Level I and Level II exams cleared above 90th percentile. Studied actuarial science and finance at UCD in Dublin, Ireland.
+Intro: Polish born and raised in Ireland. Currently attaining a Masters in Analytics & Data Science at Georgia Tech. Would love to explore collaborations with other GitHub community members on fun data science, machine learning and AI projects. Experience in financial & insurance analytics. Qualified actuary with a passion for mountaineering. CFA Level I and Level II exams cleared above 90th percentile. Studied actuarial science and finance at UCD in Dublin, Ireland.
 
 - 🔭 I’m currently working on data science and machine learning projects for my portfolio. 
 - 🌱 I’m currently learning machine learning tools as a MS Analytics graduate student at Georgia Tech. Learning about deep learning, natural language processing, machine learning.
